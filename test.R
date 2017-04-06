@@ -8,3 +8,5 @@ summary(VADeaths)
 #' make a Cleveland dot plot from the `VADeaths` data. I even bother to name '
 #' this chunk, so the resulting PNG has a decent name. + dotchart
 dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+
+made change
